@@ -51,5 +51,5 @@ button:focus {
     outline: none;
 }
 button:hover {
-    transform: scale(0.90);
+    background: #3c9136;
 }
