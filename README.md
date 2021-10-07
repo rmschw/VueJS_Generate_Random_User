@@ -2,21 +2,23 @@
 Generate Random User using Vue.JS
 
 ##Project setup
-`npm instal`
+```
+npm instal
+```
 
-##Run the JSON server in the backend (http://localhost:5000)
+## Run the JSON server in the backend (http://localhost:5000)
 
 ```
 npm run backend
 ```
 
-##Run the Vue dev server (http://localhost:8080) 
+## Run the Vue dev server (http://localhost:8080) 
 
 ```
 npm run serve
 ```
 
-##Compiles and minifies for production
+## Compiles and minifies for production
 
 ```
 npm run build
