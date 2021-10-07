@@ -1,4 +1,4 @@
-# VueJS_Generate_Random_User
+# VueJS Generate Random User
 Generate Random User using Vue.JS
 
 ## Project setup
